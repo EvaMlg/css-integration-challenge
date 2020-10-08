@@ -1,3 +1,9 @@
-# css-integration-challenge
-Drill: Learn CSS Integration  Challenge type: consolidation challenge Duration: 1 day Team: false Repository: css-integration-challenge
 https://evamlg.github.io/css-integration-challenge/index.html
+
+## CSS Integreation Challenge
+
+CSS Challenge made with SASS. 3 components. 
+On going, not finished on time (but did my best).
+
+
+copyleft 🄯 Eva.A Maréchal
