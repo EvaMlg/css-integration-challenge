@@ -139,4 +139,58 @@
   grid-row: 6;
 }
 
+/*-------Interface3----------*/
+.thirdinterface {
+  box-shadow: 1px 1px 1px lightgray;
+  font-family: "Open Sans", sans-serif;
+  display: flex;
+  margin: 15%;
+  width: 490px;
+  height: 260px;
+  border: 1px solid lightgray;
+  font-size: 8px;
+}
+.thirdinterface .image {
+  height: 260px;
+  width: 200px;
+}
+.thirdinterface .content {
+  display: block;
+  padding-left: 18px;
+  padding-right: 18px;
+}
+.thirdinterface .content h1 {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+}
+.thirdinterface .content h2 {
+  font-size: 14px;
+  font-weight: 400;
+  color: grey;
+}
+.thirdinterface .bottomcontent {
+  display: flex;
+  padding-left: 25px;
+  margin-top: 60px;
+  margin-bottom: 20px;
+}
+.thirdinterface .bottomcontent img {
+  border-radius: 50%;
+}
+.thirdinterface .bottomcontent .namedate {
+  margin-left: 10px;
+  margin-right: 45px;
+}
+.thirdinterface .bottomcontent .namedate h4 {
+  color: grey;
+}
+
+.icons {
+  font-size: 20px;
+  font-weight: 300;
+  padding-top: 10px;
+  color: grey;
+}
+
 /*# sourceMappingURL=style.css.map */
