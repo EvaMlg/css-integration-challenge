@@ -1,53 +1,59 @@
+/*-------Interface1----------*/
 .iconcard {
-  margin: 10%;
+  width: 940px;
+  height: 330px;
+  display: flex;
+  align-items: center;
+  margin: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 12px;
+}
+.iconcard h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  color: #77cd91;
 }
 
 .sanglier {
-  display: inline-block;
   height: 300px;
-  width: 210px;
-  border: 1px solid red;
-  margin: 2px;
+  width: 202px;
+  margin: 21px;
+}
+.sanglier img {
+  width: 202;
+  height: auto;
 }
 
 .coca {
-  display: inline-block;
   height: 300px;
-  width: 210px;
-  border: 1px solid red;
-  margin: 2px;
+  width: 202px;
+  margin: 21px;
+}
+.coca img {
+  width: 202;
+  height: auto;
 }
 
-.git {
-  display: inline-block;
+.chat {
   height: 300px;
-  width: 210px;
-  border: 1px solid red;
-  margin: 2px;
+  width: 202px;
+  margin: 21px;
+}
+.chat img {
+  width: 202;
+  height: auto;
 }
 
 .npm {
-  display: inline-block;
   height: 300px;
-  width: 210px;
-  border: 1px solid red;
-  margin: 2px;
+  width: 202px;
+  margin: 21px;
+}
+.npm img {
+  width: 202;
+  height: auto;
 }
 
-.imagesanglier {
-  background-image: url("/assets/img/sanglier.png");
-}
-
-.imagecoca {
-  background-image: url("/assets/img/coca.png");
-}
-
-.imagegit {
-  background-image: url("/assets/img/git.png");
-}
-
-.imagenpm {
-  background-image: url("/assets/img/npm.png");
-}
+/*-------Interface1----------*/
 
 /*# sourceMappingURL=style.css.map */
