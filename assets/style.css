@@ -1,0 +1,53 @@
+.iconcard {
+  margin: 10%;
+}
+
+.sanglier {
+  display: inline-block;
+  height: 300px;
+  width: 210px;
+  border: 1px solid red;
+  margin: 2px;
+}
+
+.coca {
+  display: inline-block;
+  height: 300px;
+  width: 210px;
+  border: 1px solid red;
+  margin: 2px;
+}
+
+.git {
+  display: inline-block;
+  height: 300px;
+  width: 210px;
+  border: 1px solid red;
+  margin: 2px;
+}
+
+.npm {
+  display: inline-block;
+  height: 300px;
+  width: 210px;
+  border: 1px solid red;
+  margin: 2px;
+}
+
+.imagesanglier {
+  background-image: url("/assets/img/sanglier.png");
+}
+
+.imagecoca {
+  background-image: url("/assets/img/coca.png");
+}
+
+.imagegit {
+  background-image: url("/assets/img/git.png");
+}
+
+.imagenpm {
+  background-image: url("/assets/img/npm.png");
+}
+
+/*# sourceMappingURL=style.css.map */
